@@ -1,0 +1,14 @@
+{
+  "name": "chatsystem",
+  "version": "0.0.1",
+  "description": "A chatroom like application.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Uzzma Saiyed",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
