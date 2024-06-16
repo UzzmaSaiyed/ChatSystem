@@ -5,7 +5,7 @@ const port = 3000;
 // Serve static files from the 'public' directory
 app.use(express.static('public'));
 
-app.get('/c', (req, res) => {
+app.get('/cc', (req, res) => {
     res.send('Chatz welcomes you!!!');
 });
 // basic routing
